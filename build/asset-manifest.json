@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/petproject/static/css/main.5367acd2.css",
+    "main.js": "/petproject/static/js/main.c0639001.js",
+    "static/js/453.8409bf6a.chunk.js": "/petproject/static/js/453.8409bf6a.chunk.js",
+    "static/media/hand-drawn-paw-prints-background.png": "/petproject/static/media/hand-drawn-paw-prints-background.c18664580d3ce50036fb.png",
+    "static/media/Shabnam.ttf": "/petproject/static/media/Shabnam.5b9b09c283c263361c6d.ttf",
+    "static/media/Yekan.ttf": "/petproject/static/media/Yekan.f6a0838b6690eaaa2898.ttf",
+    "static/media/bac2.png": "/petproject/static/media/bac2.5b9fad744d2da56f4123.png",
+    "static/media/bac1.png": "/petproject/static/media/bac1.2f31c62d97866bb60268.png",
+    "static/media/Vector2.png": "/petproject/static/media/Vector2.e754892f6ae45e0fb1c9.png",
+    "static/media/Vector1.png": "/petproject/static/media/Vector1.78d0f37537481ad1ffdc.png",
+    "static/media/logo.svg": "/petproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/petproject/index.html",
+    "main.5367acd2.css.map": "/petproject/static/css/main.5367acd2.css.map",
+    "main.c0639001.js.map": "/petproject/static/js/main.c0639001.js.map",
+    "453.8409bf6a.chunk.js.map": "/petproject/static/js/453.8409bf6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5367acd2.css",
+    "static/js/main.c0639001.js"
+  ]
+}
